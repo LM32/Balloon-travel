@@ -1,4 +1,6 @@
-/* Below are the Common Styles */
+/****************************
+Below are the Common Styles
+****************************/
 * {
   margin: 0;
   padding: 0;
@@ -36,7 +38,9 @@ html {
 
 /* End of Common styles */
 
-/* Navbar */
+/***********************
+Navbar Section
+************************/
 .navbar-icon {
   width: 5.5rem;
   height: 5.5rem;
@@ -158,7 +162,9 @@ html {
 }
 /* End of Navbar */
 
-/* Header */
+/*************************
+Header
+**************************/
 .header {
   width: 100%;
   height: calc(100vh - 7rem);
@@ -211,6 +217,9 @@ html {
   border-radius: 50%;
 }
 
+/*********************************
+This is the Animation Section
+**********************************/
 .logo h1 span:nth-child(1) {
   animation: drop-letters 5s 0.1s infinite;
 }
